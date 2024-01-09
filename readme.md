@@ -1,6 +1,6 @@
 # git repo
 
-  <h1>Git commit here</h1>
+  <h1 style="color: chartreuse;">Git commit here</h1>
         <table border="1">
 
             <thead>
